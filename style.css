@@ -1,0 +1,13 @@
+
+.row{
+    background: aquamarine;
+    margin bottom: 20px;
+    height: 200px;
+}
+.row div{
+    background: blueviolet;
+    border: 2pxsolid navy;
+    color: brown;
+    padding: 10px;
+    text-align: center;
+}
